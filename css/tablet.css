@@ -1,0 +1,22 @@
+.main-tables-container {
+    overflow-x: hidden;
+    
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.bitconi-img_container{
+    background:url(../assets/img/bitcoinbaby2x.jpg) no-repeat center/cover;
+    background-attachment: fixed;
+}
+
+
+.plans-contanier-slider{
+    justify-content: space-evenly;
+    overflow-x: hidden;
+}

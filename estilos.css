@@ -68,10 +68,10 @@ header img{
 }
 
 .header--tittle-container h1{
-    font-size: 2.4rem;
+    font-size: 3.4rem;
     font-weight: bold;
     line-height: 2.6rem;
-    color: var(--just-white);
+    color: blue;
 }
 
 .header--tittle-container p{

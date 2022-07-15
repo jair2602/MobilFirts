@@ -624,7 +624,7 @@ footer{
 }
 
 .redes a{
-    color: var(--just-white);
+    color: red;
     text-decoration: none;
     margin-top: 10px;
 

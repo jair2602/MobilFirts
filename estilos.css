@@ -68,7 +68,7 @@ header img{
 }
 
 .header--tittle-container h1{
-    font-size: 2.4rem;
+    font-size: 3.4rem;
     font-weight: bold;
     line-height: 2.6rem;
     color: blue;
@@ -624,7 +624,7 @@ footer{
 }
 
 .redes a{
-    color: var(--just-white);
+    color: red;
     text-decoration: none;
     margin-top: 10px;
 

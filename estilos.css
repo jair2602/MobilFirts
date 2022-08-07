@@ -71,7 +71,7 @@ header img{
     font-size: 3.4rem;
     font-weight: bold;
     line-height: 2.6rem;
-    color: blue;
+    color: var(--just-white)
 }
 
 .header--tittle-container p{
